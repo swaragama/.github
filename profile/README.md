@@ -1,20 +1,10 @@
-<table>
-  <tr>
-    <td width="110">
-      <img src="../assets/logo_swaragama1.png" width="90" alt="Swaragama Logo">
-    </td>
-    <td>
-      <h1>SWARAGAMA</h1>
-      <strong>Media & Digital Platform</strong><br>
-      <em>Menghadirkan informasi, hiburan, dan konten digital untuk masyarakat.</em>
-    </td>
-  </tr>
-</table>
+<img align="left" width="120" src="../assets/logo_swaragama1.png" alt="Swaragama Logo">
 
-<br>
+<h3>SWARAGAMA</h3>
+<strong>Media & Digital Platform</strong><br>
+<em>Fokus pada distribusi informasi dan konten hiburan yang relevan.</em>
 
-**📌 Tentang Swaragama**
+<br clear="left"/><br>
 
-Swaragama merupakan media yang menghadirkan berbagai informasi, hiburan, dan konten digital bagi masyarakat.
-
-GitHub Organization ini menjadi ruang kerja resmi tim **Website & Digital** untuk pengembangan, dokumentasi, dan kolaborasi berbagai proyek digital Swaragama.
+Swaragama berdedikasi untuk terus menghadirkan konten dan informasi yang dekat dengan keseharian audiens kami. 
+Halaman organisasi ini difungsikan sebagai ruang kerja internal divisi **Website & Digital**. Semua proses kolaborasi pengembangan, mulai dari perancangan infrastruktur web, pemeliharaan aplikasi, hingga dokumentasi sistem digital Swaragama, dikoordinasikan secara terpusat di sini.
